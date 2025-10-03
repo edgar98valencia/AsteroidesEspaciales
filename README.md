@@ -24,5 +24,3 @@ Controlás una nave espacial y tenés que moverte para no chocar con los asteroi
 4. Corré el juego:
    
    py main.py
-
-## ¿Qué hay en cada carpeta?
