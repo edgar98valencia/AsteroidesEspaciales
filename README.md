@@ -4,7 +4,7 @@
 
 ## ¿De qué va el juego?
 
-Controlás una nave espacial y tenés que moverte para no chocar con los asteroides que bajan. Hay de varios tamaños y colores: los rojos son los más grandes y peligrosos, los naranjas medianos y los amarillos chiquitos. Cada vez que esquivás uno, sumás puntos. Si te la bancás, el juego se va poniendo más difícil.
+Controlás una nave espacial y tenés que moverte para no chocar con los asteroides que bajan. Hay de varios tamaños y colores: los rojos son los más grandes y peligrosos, los naranjas medianos y los amarillos chiquitos. Cada vez que esquivás uno, sumás puntos. El juego se va poniendo más difícil.
 
 ## Controles
 
